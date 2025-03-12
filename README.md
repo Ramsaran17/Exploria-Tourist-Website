@@ -12,3 +12,7 @@ A fully mobile responsive and captivating online tour booking landing page that 
 - How to select HTML element in the `DOM`
 - Heavily focused on the JavaScript Loops
 - Working with functions
+
+  # new-tic-tac-toe
+**Live demo** : https://ramsaran17.github.io/Exploria-Tourist-Website/
+
